@@ -13,8 +13,7 @@ eureka:
     healthcheck.enabled: true
   instance:
     prefer-ip-address: true
-
-name: "徐家汇123"
+name: 徐家汇123
 management:
   endpoints:
     web:
