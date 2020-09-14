@@ -22,5 +22,5 @@ management:
         # 默认值访问health,info端点  用*可以包含全部端点#暴露所有端口，也可以指定某一个环境（先management.endpoint.{profile}.enabled=true，然后这里指定这个{profile},多个用,分隔）
         include: "*"
 hcc:
- name: 小伙子
+ name: 小伙子到了
 
